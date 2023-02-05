@@ -1,0 +1,2 @@
+(this["webpackJsonp@jsnote-jtb/local-client"]=this["webpackJsonp@jsnote-jtb/local-client"]||[]).push([[296],{466:function(n,t){Prism.languages["nand2tetris-hdl"]={comment:/\/\/.*|\/\*[\s\S]*?(?:\*\/|$)/,keyword:/\b(?:CHIP|IN|OUT|PARTS|BUILTIN|CLOCKED)\b/,boolean:/\b(?:true|false)\b/,function:/\b[A-Za-z][A-Za-z0-9]*(?=\()/,number:/\b\d+\b/,operator:/=|\.\./,punctuation:/[{}[\];(),:]/}}}]);
+//# sourceMappingURL=296.9f637e2f.chunk.js.map
